@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on cloud projects
+- 🌱 I’m currently learning about Terraform, Docker, Ansible etc.
+
 <!--
 **Vargwen/Vargwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
